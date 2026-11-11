@@ -1,0 +1,70 @@
+{
+  "name": "Orbit",
+  "language": "python",
+  "protocol": 2,
+  "entry": "orbit.py",
+  "strategy": "A mobile hunter that orbits its target at mid range, leads its shots and weaves vertically in 3D.",
+  "supportedModes": [
+    "2d",
+    "3d"
+  ],
+  "resourceModes": [
+    "open",
+    "trusted"
+  ],
+  "supportedRulesets": [
+    "classic",
+    "inertial-2d",
+    "gravity-flat",
+    "gravity-hills",
+    "zero-g"
+  ],
+  "avatar": {
+    "v": 2,
+    "chassis": {
+      "shape": "box",
+      "length": 0.68,
+      "width": 0.478,
+      "height": 0.149,
+      "taper": 0.1,
+      "bevel": 0.4,
+      "deck": 0.6
+    },
+    "locomotion": {
+      "kind": "hover",
+      "size": 1,
+      "count": 2
+    },
+    "turret": {
+      "shape": "wedge",
+      "size": 1,
+      "offset": 0.08
+    },
+    "barrels": {
+      "count": 1,
+      "length": 0.34,
+      "thickness": 1,
+      "muzzle": "plain"
+    },
+    "scanner": {
+      "kind": "dish",
+      "size": 1,
+      "offset": -0.2
+    },
+    "extras": {
+      "plates": 0,
+      "fins": 0,
+      "antennae": 1
+    },
+    "palette": {
+      "primary": "#3566A8",
+      "secondary": "#E3DACB",
+      "accent": "#C3A23A"
+    },
+    "decal": "stripe"
+  },
+  "command": [
+    "python3",
+    "bots/python/orbit.py"
+  ]
+}
