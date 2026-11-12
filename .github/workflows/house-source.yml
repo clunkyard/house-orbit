@@ -1,7 +1,5 @@
 name: Refresh published House source
 on:
-  schedule:
-    - cron: '4,19,34,49 * * * *'
   workflow_dispatch:
 permissions: {}
 concurrency:
