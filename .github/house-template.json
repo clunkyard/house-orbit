@@ -3,7 +3,7 @@
   "repository": "clunkyard/house-orbit",
   "source": {
     "botId": "909d982b-15e6-4589-bce4-d07b55117218",
-    "revisionId": "c937a306-658a-450b-ac0a-24621595fb99",
+    "revisionId": "c4da2ebb-718d-435f-a97c-83fb4dfe0bbd",
     "manifestHash": "3a34fcf5b5f6b1207a05704e9bb3e828a3b6c40550249f917cfc0b34540b8985"
   },
   "visibleManifestHash": "3a34fcf5b5f6b1207a05704e9bb3e828a3b6c40550249f917cfc0b34540b8985",
@@ -26,7 +26,7 @@
   "managed": [
     {
       "path": ".clunkyard-source.json",
-      "sha256": "46555a8ccce58aa8982647625ef35da2e7fa7bd9a5b484e1ac58e8b247ad908a",
+      "sha256": "20188c093bc5ad5d2e7067f464c2ac5ab117a4d85bcfd223acb10b4326492962",
       "mode": 420
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "path": "Makefile",
-      "sha256": "b41bef136a1fec767be62431121a98d96259ccd8415fc3d71665b22efcd8f79d",
+      "sha256": "56113b1e7b8c900f9222ffed6cfba3382ff4835729e887cab6e75fbf991b4157",
       "mode": 420
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "ef8f5e51efe1f17a028b59204a05e7176ef7f438a070c5c0fe2484d1223e1d61",
+      "sha256": "f2e9e6b9516921fa4a221457e96e9fef36f6af2c590733383036ce50297157b6",
       "mode": 420
     }
   ]
