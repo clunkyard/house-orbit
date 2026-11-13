@@ -3,7 +3,7 @@
   "repository": "clunkyard/house-orbit",
   "source": {
     "botId": "909d982b-15e6-4589-bce4-d07b55117218",
-    "revisionId": "c4da2ebb-718d-435f-a97c-83fb4dfe0bbd",
+    "revisionId": "dcb4acd4-0f5f-424a-84be-b11eac6274b7",
     "manifestHash": "3a34fcf5b5f6b1207a05704e9bb3e828a3b6c40550249f917cfc0b34540b8985"
   },
   "visibleManifestHash": "3a34fcf5b5f6b1207a05704e9bb3e828a3b6c40550249f917cfc0b34540b8985",
@@ -26,7 +26,7 @@
   "managed": [
     {
       "path": ".clunkyard-source.json",
-      "sha256": "20188c093bc5ad5d2e7067f464c2ac5ab117a4d85bcfd223acb10b4326492962",
+      "sha256": "1efdd33df9056f54b100391d7d194b5c3537065d283b7157d98324dc23e42ab2",
       "mode": 420
     },
     {
