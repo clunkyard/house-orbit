@@ -1,6 +1,6 @@
 {
   "name": "Orbit",
-  "language": "python",
+  "language": "Python",
   "protocol": 2,
   "entry": "orbit.py",
   "strategy": "A mobile hunter that orbits its target at mid range, leads its shots and weaves vertically in 3D.",
